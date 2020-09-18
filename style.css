@@ -186,7 +186,7 @@ footer{
     width: 100%;
     display: flex;
     flex-direction: row;
-    gap: 100px;
+    gap: 80px;
     padding-top: 30px;
 }
 
@@ -196,7 +196,6 @@ footer{
 
     display: flex;
     flex-direction: row;
-    gap: 16px;
     line-height: 2;
 }
 .icon{
@@ -207,10 +206,10 @@ footer{
 }
 
 .address{
-    width: 230px;
+    width: 250px;
 }
 .number{
-    width: 80px;
+    width: 60px;
 }
 
 .number a{
@@ -232,6 +231,7 @@ footer{
 .social-icons{
     display: flex;
     flex-direction: row;
+    gap: 20px;
 }
 
 .fab{
