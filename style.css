@@ -342,7 +342,7 @@ footer{
     }
     .button1:hover{
         height:50px;
-        width: 300px;
+        width: 200px;
         border-radius: 40px;
         background-color: hsl(198, 100%, 68%);
         font-size: 14px;
@@ -427,14 +427,15 @@ footer{
     }
     .form{
         width: 220px;
-        height: 230px;
+        height: 400px;
         text-align: center;
         background-color: hsl(217, 28%, 15%);
         margin: auto;
         font-size: 12px;
         position: relative;
-        top: 200px;
+        top: 250px;
         padding: 30px;
+
     }
     .form p {
         width: 240px;
